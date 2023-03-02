@@ -14,7 +14,7 @@ mvn archetype:generate -DgroupId=edu.eci.cvds -DartifactId=ClasesEquivalencia -D
 
 Vamos al repo central de maven, buscamos el artefacto JUnit y agregamos la dependencia en el archivo pom.xml.la versión de java 8.
 
-![image]()
+![image](imagen2.jpeg)
 
 ### COMPILAR Y EJECUTAR
 
