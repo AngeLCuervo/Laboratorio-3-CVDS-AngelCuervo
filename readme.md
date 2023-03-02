@@ -8,23 +8,23 @@ Creamos un nuevo proyecto con los valores dados en el enunciado del laboratorio:
 ```
 mvn archetype:generate -DgroupId=edu.eci.cvds -DartifactId=ClasesEquivalencia -Dpackage=edu.eci.cvds.tdd -DarchetypeArtifactId=maven-archetype-quickstart
 ```
-![image]()
+![image](Capturas/imagen1.jpeg)
 
 ### Actualizar y crear dependencias en el proyecto
 
 Vamos al repo central de maven, buscamos el artefacto JUnit y agregamos la dependencia en el archivo pom.xml.la versión de java 8.
 
-![image](imagen2.jpeg)
+![image](Capturas/imagen2.jpeg)
 
 ### COMPILAR Y EJECUTAR
 
 Para compilar ejecutamos el comando `mvn compile`
 
-![image]()
+![image](Capturas/imagen3.jpeg)
 
 Para ejecutar las pruebas unitarias ejecutamos el comando `mvn package`
 
-![image]()
+![image](Capturas/imagen4.jpeg)
 
 ## EJERCICIO “REGISTRADURÍA”
 
@@ -32,8 +32,8 @@ Para ejecutar las pruebas unitarias ejecutamos el comando `mvn package`
 
 Ejecutamos el comando `mvn package`:
 
-![image]()
+![image](Capturas/imagen5.jpeg)
 
 Ejecutamos el comando `mvn test`:
 
-![image]()
+![image](Capturas/imagen6.jpeg)
